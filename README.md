@@ -1,3 +1,5 @@
+![photo_2023-10-28_17-51-07](https://github.com/iamgeorgp/ftp_connecter/assets/128215564/b86df105-b533-4ccf-9f08-8cecd0f8e294)
+
 # FTP to GoogleSheets Power BI Connector
 
 ## Description:
